@@ -103,8 +103,11 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+![511804133-4b53c0a3-c5cf-4c6e-a915-314f8192cbc1](https://github.com/user-attachments/assets/22a04fc8-e45d-49b7-a329-fd3fa89260c1)
+
 
 CASE 2: LED OFF
+![511804152-42e67dcd-edd8-42a2-85ca-f7408143b8f5](https://github.com/user-attachments/assets/34b12f73-c029-4f75-af16-4771f829d996)
 
 ---
 ### RESULT
